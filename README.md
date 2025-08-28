@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/tiago-assis054/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/5513981855983?text=Olá,%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
+  <a href="https://wa.me/5513992031808?text=Olá,%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 
